@@ -1,3 +1,4 @@
+//仅用递归函数和栈操作逆序一个栈
 #include <iostream>
 #include <stack>
 using namespace std;
